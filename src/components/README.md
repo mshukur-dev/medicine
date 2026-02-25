@@ -1,0 +1,1 @@
+Яктаи branch созен барои componentхо
