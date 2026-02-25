@@ -54,6 +54,11 @@ h3 {
     padding: 0 20px;
 }
 
+.page1_herobg{
+    background: linear-gradient(278.5deg, #0074B8 22.09%, #00BAC6 102.19%);
+}
+
+
 @theme {
     --breakpoint-mb: 510px;
     --breakpoint-tablet: 960px;
