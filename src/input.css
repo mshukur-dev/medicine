@@ -25,6 +25,7 @@ body {
     background: #00C6BF;
     font-weight: 700;
     border-radius: 5px;
+    box-shadow: #00000053;
 }
 .btn_blue {
     color: #FFFFFF;
